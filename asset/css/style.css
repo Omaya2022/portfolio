@@ -1,0 +1,53 @@
+body{
+    background-color: #171717;
+    color: #FFFFFF;
+    align-items: center;
+    /* text-align: center; */
+}
+.navbar-logo{
+    font-family: DM Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.navbar-logo-layout{
+    width: 212px;
+    height: 47px;
+    top: 28px;
+    left: 80px;
+}
+
+.contain-nav{
+    width: 212px;
+    height: 47px;
+    top: 28px;
+    left: 80px;
+}
+
+.back-image{
+    background-color: #212121;
+    /* background-color: aqua; */
+    width: 50px;
+    height: 50px;
+}
+.marge-auto{
+    margin: auto;
+}
+.card-color{
+    background: #212121;
+    padding: 10px;
+}
+.card-color-pourcent{
+    color: #4F4F4F;
+    font-size: 72px;
+
+}
+.color-lang{
+    color: #27AE60;
+    font-size: 24px;
+}
+.roundimg{
+    border-radius: 50% 50%;
+}
